@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Cursor
+.cursor/
